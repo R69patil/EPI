@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class ComputexmulywithoutArithmeticaloper {
 
     public static int multiply(int x,int y){

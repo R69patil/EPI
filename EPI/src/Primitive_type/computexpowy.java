@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class computexpowy {
     public static void main(String[] args){
         double xnum=2;

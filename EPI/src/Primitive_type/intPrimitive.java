@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class intPrimitive {
     public static void main(String[] args){
         int a=7;

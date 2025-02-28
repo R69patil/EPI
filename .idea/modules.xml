@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Element of programing Interview java.iml" filepath="$PROJECT_DIR$/.idea/Element of programing Interview java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Primitive_Type/Primitive_Type.iml" filepath="$PROJECT_DIR$/Primitive_Type/Primitive_Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPI/Primitive_Type.iml" filepath="$PROJECT_DIR$/EPI/Primitive_Type.iml" />
     </modules>
   </component>
 </project>

@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class swapbits {
 
 

@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class Reversedigits {
     public static void main(String[] args){
         int x=107;

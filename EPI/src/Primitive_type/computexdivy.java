@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class computexdivy {
     public static void main(String[] args){
         long num1=12;

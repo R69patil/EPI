@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class ReverseBit {
     public static long reversebits(long num){
         long res=0;

@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class checkifdecimalintegerispalindrome {
     public static void main(String[] args){
         int  x=22;

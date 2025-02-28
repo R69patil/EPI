@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class longPrimitive {
     public static void main(String[] args) {
         int  number =8;

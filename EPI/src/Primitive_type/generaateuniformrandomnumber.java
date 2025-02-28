@@ -1,3 +1,5 @@
+package Primitive_type;
+
 import java.util.Random;
 
 

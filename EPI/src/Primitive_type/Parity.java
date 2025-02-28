@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class Parity {
     public static void main(String[] args){
         long b=11011;

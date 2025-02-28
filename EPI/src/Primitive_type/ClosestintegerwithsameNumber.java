@@ -1,3 +1,5 @@
+package Primitive_type;
+
 public class ClosestintegerwithsameNumber {
     public static long Closestintwithsameweight(long n) throws IllegalAccessException {
         //loop through all bits to find first pair of consecutive bits that differ
